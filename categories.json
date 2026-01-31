@@ -1,0 +1,146 @@
+{
+  "Food & Dining": [
+    "restaurant",
+    "cafe",
+    "supermarket",
+    "food",
+    "uber eats",
+    "pizza",
+    "burger",
+    "padaria",
+    "bar",
+    "pub",
+    "carmelito",
+    "ifood",
+    "rangotruck",
+    "mercado",
+    "mercado e acougue bat",
+    "imec",
+    "passarela"
+  ],
+  "Gasoline": [
+    "sim - rede de postos",
+    "rc lajeado",
+    "buffon",
+    "shell",
+    "gas station",
+    "posto",
+    "combustivel",
+    "gasolina"
+  ],
+  "Transportation": [
+    "uber"
+  ],
+  "Shopping": [
+    "amazon",
+    "walmart",
+    "mercadolivre",
+    "mercado livre",
+    "havan"
+  ],
+  "Entertainment": [
+    "cinema",
+    "steam",
+    "playstation",
+    "xbox",
+    "off eventos"
+  ],
+  "Housing": [
+    "agua",
+    "internet",
+    "rocket tecnologia",
+    "certel",
+    "marina regina peiter"
+  ],
+  "Healthcare": [
+    "farmacia",
+    "sao joao",
+    "hospital",
+    "medic",
+    "panvel"
+  ],
+  "Travel": [
+    "hotel",
+    "airbnb",
+    "airline",
+    "flight",
+    "booking",
+    "travel",
+    "vacation",
+    "resort"
+  ],
+  "Subscriptions": [
+    "subscription",
+    "membership",
+    "premium",
+    "monthly fee",
+    "annual fee",
+    "blablacar",
+    "netflix",
+    "spotify",
+    "disney"
+  ],
+  "Personal Care": [
+    "salon",
+    "spa",
+    "haircut",
+    "beauty",
+    "cosmetic",
+    "gym",
+    "fitness",
+    "Alliance"
+  ],
+  "Education": [
+    "universidade",
+    "curso",
+    "carlos levir"
+  ],
+  "Insurance": [
+    "prosulassociacao",
+    "seguro"
+  ],
+  "Investments": [
+    "nuinvest",
+    "aplicação",
+    "resgate",
+    "rdb",
+    "tesouro direto",
+    "investimento"
+  ],
+  "Taxes": [
+    "vlv auditores",
+    "receita federal",
+    "irrf",
+    "imposto",
+    "tax"
+  ],
+  "Pet Care": [
+    "aline zanotto",
+    "veterinario",
+    "pet",
+    "dog",
+    "cat",
+    "animal",
+    "moinhosagro"
+  ],
+  "Fees & Charges": [
+    "fee",
+    "charge",
+    "interest",
+    "atm",
+    "bank"
+  ],
+  "Personal Transfers": [
+    "transferência recebida",
+    "transferencia recebida",
+    "pix recebido",
+    "recebida pelo pix",
+    "pelo pix"
+  ],
+  "Salary": [
+    "wink tech"
+  ],
+  "Maintenance": [
+    "lajeado manutencao"
+  ]
+}
