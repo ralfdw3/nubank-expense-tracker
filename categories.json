@@ -8,12 +8,9 @@
     "pizza",
     "burger",
     "padaria",
-    "bar",
-    "pub",
     "carmelito",
     "ifood",
     "rangotruck",
-    "mercado",
     "mercado e acougue bat",
     "imec",
     "passarela"
@@ -46,8 +43,6 @@
     "off eventos"
   ],
   "Housing": [
-    "agua",
-    "internet",
     "rocket tecnologia",
     "certel",
     "marina regina peiter"
@@ -88,7 +83,8 @@
     "cosmetic",
     "gym",
     "fitness",
-    "Alliance"
+    "alliance",
+    "guilherme bucker"
   ],
   "Education": [
     "universidade",
@@ -96,8 +92,7 @@
     "carlos levir"
   ],
   "Insurance": [
-    "prosulassociacao",
-    "seguro"
+    "prosulassociacao"
   ],
   "Investments": [
     "nuinvest",
@@ -105,7 +100,8 @@
     "resgate",
     "rdb",
     "tesouro direto",
-    "investimento"
+    "investimento",
+    "casanova aldebaran"
   ],
   "Taxes": [
     "vlv auditores",
@@ -130,17 +126,11 @@
     "atm",
     "bank"
   ],
-  "Personal Transfers": [
-    "transferência recebida",
-    "transferencia recebida",
-    "pix recebido",
-    "recebida pelo pix",
-    "pelo pix"
-  ],
-  "Salary": [
+  "Income": [
     "wink tech"
   ],
   "Maintenance": [
     "lajeado manutencao"
-  ]
+  ],
+  "Ride Sharing Income": []
 }
